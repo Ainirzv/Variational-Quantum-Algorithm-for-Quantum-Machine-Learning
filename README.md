@@ -48,7 +48,7 @@ Create a fresh venv to avoid mixing **Qiskit < 1.0** and **≥ 1.0**:
 python -m venv venv
 venv\Scripts\activate     # Windows
 # . venv/bin/activate     # Linux/macOS
-pip install torch qiskit qiskit-aer pandas numpy
+pip install torch qiskit pandas numpy
 ```
 
 ---
