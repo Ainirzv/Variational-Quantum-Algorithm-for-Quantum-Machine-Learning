@@ -62,10 +62,10 @@ python hybrid_vqa.py
 Typical console output (truncated):
 
 ```
-Epoch 1  | Loss: 0.66 | Accuracy: 62.0%
-…
-Epoch 50 | Loss: 0.31 | Accuracy: 89.5%
-Test accuracy: 88.1%
+Epoch 48 | Loss: 0.5291 | Accuracy: 76.48%
+Epoch 49 | Loss: 0.5285 | Accuracy: 76.70%
+Epoch 50 | Loss: 0.5280 | Accuracy: 76.48%
+Test accuracy: 74.56%
 ```
 
 ---
